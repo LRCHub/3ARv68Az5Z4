@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "はじまり",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-02-25T09:32:39.554673Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "はじまり",
+      "artist": "KOKIA",
+      "has_synced": true,
+      "path": "select/01_はじまり_KOKIA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "はじまり - Hajimari (feat. Kiyosaku)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_はじまり_-_Hajimari_(feat._Kiyosaku)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "はじまり",
+      "artist": "Mrs. GREEN APPLE/キヨサク",
+      "has_synced": true,
+      "path": "select/03_はじまり_Mrs._GREEN_APPLE_キヨサク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "はじまり",
+      "artist": "Mrs. GREEN APPLE; キヨサク",
+      "has_synced": true,
+      "path": "select/04_はじまり_Mrs._GREEN_APPLE;_キヨサク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "はじまり feat. キヨサク from MONGOL800",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/05_はじまり_feat._キヨサク_from_MONGOL800_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "はじまり",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_はじまり_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "はじまり",
+      "artist": "Mrs. GREEN APPLE feat. キヨサク from MONGOL800",
+      "has_synced": true,
+      "path": "select/07_はじまり_Mrs._GREEN_APPLE_feat._キヨサク_from_MONGOL800.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "はじまり",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/08_はじまり_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "はじまり feat. キヨサク from MONGOL800",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/09_はじまり_feat._キヨサク_from_MONGOL800_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mrs. GREEN APPLE feat. キヨサク - はじまり",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/10_Mrs._GREEN_APPLE_feat._キヨサク_-_はじまり_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "はじまり",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/11_はじまり_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はじまり feat. キヨサク from MONGOL800",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_はじまり_feat._キヨサク_from_MONGOL800_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
